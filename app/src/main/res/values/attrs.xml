@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExpandableTextView">
+        <attr name="foldedStateLineCount" format="integer" />
+        <attr name="text" format="string" />
+        <attr name="expandButtonText" format="string" />
+        <attr name="foldButtonText" format="string" />
+        <attr name="textSize" format="dimension" />
+        <attr name="truncation" format="string" />
+        <attr name="expanded" format="boolean" />
+    </declare-styleable>
+</resources>
